@@ -11,4 +11,5 @@ set ignorecase
 set smartcase
 set incsearch
 set number
+set ruler
 syntax enable
