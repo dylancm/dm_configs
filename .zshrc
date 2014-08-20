@@ -59,7 +59,7 @@ export PATH="/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games"
 
 # Preferred editor for local and remote sessions
 # if [[ -n $SSH_CONNECTION ]]; then
-#   export EDITOR='vim'
+   export EDITOR='vim'
 # else
 #   export EDITOR='mvim'
 # fi
